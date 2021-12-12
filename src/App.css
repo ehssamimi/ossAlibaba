@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+
+.swiperdiv{
+  height:20vh;
+  border-radius: 20px 20px 0 0 ;
+  background: dimgray;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /*transition: transform 0.26s ease;*/
+  -webkit-transition: height 1s linear;
+  -moz-transition: height 1s linear;
+  -ms-transition: height 1s linear;
+  -o-transition: height 1s linear;
+  transition: height 1s linear;
+}
