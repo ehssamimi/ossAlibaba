@@ -3,11 +3,15 @@ import Upload from "./Upload";
 // const OSS = require('ali-oss');
 import OSS from 'ali-oss'
 const path = require("path");
-const accessKeyId = 'LTAI5tSQooLRB9eQXncVQ8wr';
-const accessKeySecret = 'nAUj9B0ov1CZn0I1DS6qRsP9uW26m2';
-const endpoint = 'oss-cn-shanghai.aliyuncs.com';
-const bucket = 'ashoss';
+// const accessKeyId = 'LTAI5tSQooLRB9eQXncVQ8wr';
+// const accessKeySecret = 'nAUj9B0ov1CZn0I1DS6qRsP9uW26m2';
+// const endpoint = 'oss-cn-shanghai.aliyuncs.com';
+// const bucket = 'ashoss';
 
+const accessKeyId = ' ';
+const accessKeySecret = ' ';
+const endpoint = ' ';
+const bucket = ' ';
 
 // const AccessKey = 'LTAI5tSQooLRB9eQXncVQ8wr';
 // const SecretKey = 'nAUj9B0ov1CZn0I1DS6qRsP9uW26m2';
